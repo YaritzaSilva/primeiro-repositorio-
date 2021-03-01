@@ -1,1 +1,3 @@
-# primeiro-repositorio-
+# Meu primeiro repositório
+
+Aula de Programação
